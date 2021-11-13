@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "998500264605",
+    "firebase_url": "https://control-servo-based-on-temp-default-rtdb.firebaseio.com",
+    "project_id": "control-servo-based-on-temp",
+    "storage_bucket": "control-servo-based-on-temp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998500264605:android:cf390f94f4c08703f48274",
+        "android_client_info": {
+          "package_name": "android.kotlin.aplikasifirebaseiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998500264605-5c7ui36ea7sasaetbav966vkhs28c8mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_YFeOL784IBRl3czcaYKkzehjsMkI_hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998500264605-5c7ui36ea7sasaetbav966vkhs28c8mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998500264605:android:f7b286d521fe0ce2f48274",
+        "android_client_info": {
+          "package_name": "android.kotlin.aplikasiiotfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998500264605-5c7ui36ea7sasaetbav966vkhs28c8mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_YFeOL784IBRl3czcaYKkzehjsMkI_hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998500264605-5c7ui36ea7sasaetbav966vkhs28c8mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998500264605:android:9923668a5cf939a3f48274",
+        "android_client_info": {
+          "package_name": "android.kotlin.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998500264605-5c7ui36ea7sasaetbav966vkhs28c8mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_YFeOL784IBRl3czcaYKkzehjsMkI_hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998500264605-5c7ui36ea7sasaetbav966vkhs28c8mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
